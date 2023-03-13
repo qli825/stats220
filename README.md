@@ -29,6 +29,3 @@ Bar Manager
 7. _Mad Dogs Investment Ltd (2022 - now)_\n
 Bartender
 
-### Leadership
-Manager of college social basketball team in Rangitoto College (2018)
-Leader of one group of school performance teams (2018)
