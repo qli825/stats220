@@ -7,7 +7,7 @@ This is the Project 1 of stats 220, mission for this part is to show our meme cr
 
 ### Basic Information
 - Date of Birth: 23/02/2000
-- Phone: (64)21 0873 2470
+- Phone: (64) 21 0873 2470
 - Email: qli825@aucklanduni.ac.nz
 
 ### Education
