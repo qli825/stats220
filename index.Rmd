@@ -1,0 +1,22 @@
+---
+title: "Creating images with R"
+author: "Qintong Li"
+date: "2023-03-13"
+output:
+  html_document: default
+  pdf_document: default
+subtitle: with a little bit of magick
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+```
+
+## Introduction of first meme
+
+Elon Musk funny meme 1
+
+## Intorduction of second meme
+
+Elon Musk funny meme 2
+
