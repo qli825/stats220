@@ -1,7 +1,7 @@
 # **STATS 220 - Qintong Li**
 
 ## Aiming of this page
-This is the Project 1 of stats 220, mission for this part is to show our meme creation with a markdown on [GitHub](https://github.com/qli825/stats220).
+This is the Project 1 of stats 220, mission for this part is to show our meme creation with a markdown on [GitHub](https://github.com/qli825/stats220). Here is my project 1 work [index](https://github.com/qli825/stats220/blob/main/index.html).
 
 ## Introducing myself
 
